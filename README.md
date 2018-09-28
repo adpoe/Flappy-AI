@@ -4,7 +4,7 @@
 
 ## WARNING: If you are a Pitt Student -- Do NOT copy/paste this code for your homework assignment
 ### Your professor knows you're doing it, and you will get caught. Do your own work.
-I also have this linked from my blog and don't feel like breaking links by making it private to stop you from cheating. Just don't.
+I also have this linked from my blog and don't feel like breaking links by making this private to stop you from cheating. Just don't.
 
 ## Overview
 This project contains the implementation of a Q-Learning Artificial Intelligence for learning to play the popular video game **Flappy Bird**.
