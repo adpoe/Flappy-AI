@@ -1,6 +1,6 @@
 # Flappy Bird - QLearning
 * @author Anthony (Tony) Poerio  
-* @email adp59@pitt.edu  
+* @email tony@tonypoer.io
 
 ## WARNING: If you are a Pitt Student -- Do NOT copy/paste this code for your homework assignment
 ### Your professor knows you're doing it, and you will get caught. Do your own work.
